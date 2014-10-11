@@ -1,2 +1,2 @@
-ds_project
+this is repository for ds projects
 ==========
